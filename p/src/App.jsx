@@ -26,6 +26,7 @@ function App() {
       <button onClick={() => {
         setChange(change + 1)
       }}>Parent Component</button>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea hic officiis quis voluptatem nam reprehenderit, officia exercitationem ipsa eveniet recusandae cumque, repellendus minima ipsam cum, doloremque vitae dolores dignissimos est.</p>
 
     <Hi />
       <Rend />

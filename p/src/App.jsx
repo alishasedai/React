@@ -27,7 +27,8 @@ function App() {
         setChange(change + 1)
       }}>Parent Component</button>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea hic officiis quis voluptatem nam reprehenderit, officia exercitationem ipsa eveniet recusandae cumque, repellendus minima ipsam cum, doloremque vitae dolores dignissimos est.</p>
-
+      <button>Just click here</button>
+      <p>this is so nice</p>
     <Hi />
       <Rend />
     </>
